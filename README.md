@@ -1,2 +1,2 @@
-# manishlok.github.io
-manishlok github page
+# teampage
+Team page design for Imagine Cyberpur Contest
